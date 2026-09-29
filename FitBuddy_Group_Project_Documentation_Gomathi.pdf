@@ -1,0 +1,1029 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 7
+/Kids [ 4 0 R 12 0 R 15 0 R 18 0 R 21 0 R 24 0 R 27 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 2520
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 208.7778 28.34646 Tm (FitBuddy \226 Group Project Documentation | Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 705.4961 cm
+Q
+q
+1 0 0 1 57.02362 677.4961 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F2 22 Tf 28 TL 185.0092 0 Td (FITBUDDY) Tj T* -185.0092 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 641.4961 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F1 12 Tf 18 TL 113.9002 0 Td (AI Fitness Plan Generator using Gemini Models) Tj T* -113.9002 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 599.4803 cm
+Q
+q
+1 0 0 1 57.02362 581.4803 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F2 12 Tf 18 TL 133.6102 0 Td (GROUP PROJECT DOCUMENTATION) Tj T* -133.6102 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 530.9606 cm
+Q
+q
+1 0 0 1 70.86614 368.9606 cm
+q
+.960784 .960784 .960784 rg
+n 0 162 127.5591 -162 re f*
+0 0 0 rg
+BT /F2 9.5 Tf 13 TL ET
+BT 1 0 0 1 6 145.5 Tm (Student / Group) Tj T* ET
+BT /F1 9.5 Tf 13 TL ET
+BT 1 0 0 1 133.5591 145.5 Tm (____________________________________________) Tj T* ET
+BT /F2 9.5 Tf 13 TL ET
+BT 1 0 0 1 6 118.5 Tm (Course) Tj T* ET
+BT /F1 9.5 Tf 13 TL ET
+BT 1 0 0 1 133.5591 118.5 Tm (BCA) Tj T* ET
+BT /F2 9.5 Tf 13 TL ET
+BT 1 0 0 1 6 91.5 Tm (Class) Tj T* ET
+BT /F1 9.5 Tf 13 TL ET
+BT 1 0 0 1 133.5591 91.5 Tm (2nd BCA \226 A) Tj T* ET
+BT /F2 9.5 Tf 13 TL ET
+BT 1 0 0 1 6 64.5 Tm (Academic Year) Tj T* ET
+BT /F1 9.5 Tf 13 TL ET
+BT 1 0 0 1 133.5591 64.5 Tm (2026\2262027) Tj T* ET
+BT /F2 9.5 Tf 13 TL ET
+BT 1 0 0 1 6 37.5 Tm (Project Title) Tj T* ET
+BT /F1 9.5 Tf 13 TL ET
+BT 1 0 0 1 133.5591 37.5 Tm (FitBuddy \226 AI Fitness Plan Generator using Gemini Models) Tj T* ET
+BT /F2 9.5 Tf 13 TL ET
+BT 1 0 0 1 6 10.5 Tm (Technologies) Tj T* ET
+BT /F1 9.5 Tf 13 TL ET
+BT 1 0 0 1 133.5591 10.5 Tm (Python, FastAPI, Jinja2, HTML, CSS, Gemini AI, SQLite / SQLAlchemy) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 162 m 453.5433 162 l S
+n 0 0 m 453.5433 0 l S
+n 0 0 m 0 162 l S
+n 453.5433 0 m 453.5433 162 l S
+n 0 135 m 453.5433 135 l S
+n 0 108 m 453.5433 108 l S
+n 0 81 m 453.5433 81 l S
+n 0 54 m 453.5433 54 l S
+n 0 27 m 453.5433 27 l S
+n 127.5591 0 m 127.5591 162 l S
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 317.937 cm
+Q
+q
+1 0 0 1 57.02362 299.937 cm
+q
+.501961 .501961 .501961 rg
+BT 1 0 0 1 0 3.5 Tm /F1 8.5 Tf 12 TL (Group Members: Add all group member names and register numbers here.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+203.4 511.4898 234.6 11.5 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 204.4 514.4898 Tm
+(GOMATHI\056 E) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 2063
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 208.7778 28.34646 Tm (FitBuddy \226 Group Project Documentation | Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 764.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (TABLE OF CONTENTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 741.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (1. Project Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.8661 cm
+q
+BT 1 0 0 1 0 4.8 Tm 15 TL /F1 10.2 Tf 0 0 0 rg (2. Brainstorming & Ideation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 697.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (3. Requirement Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 675.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (4. Project Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 653.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (5. Project Planning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 631.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (6. Project Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 609.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (7. Project Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 587.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (8. Project Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 565.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (9. Project Demonstration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (10. Source Code \226 main.py) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 521.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (11. Source Code \226 result.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (12. Project Screenshots) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 477.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (13. Conclusion) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+56 501.5898 145 12.2 re
+f*
+1 1 1 rg
+n
+56 479.5898 145 12.2 re
+f*
+0 0 0 rg
+BT
+/F1-0 10.2 Tf
+12.24 TL
+ET
+BT
+1 0 0 1 57 504.6898 Tm
+(12\056 Conclusion) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 2365
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 208.7778 28.34646 Tm (FitBuddy \226 Group Project Documentation | Page 3) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 764.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (1. Project Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 696.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.8 Tm /F1 10.2 Tf 15 TL (FitBuddy is a web-based AI fitness planning application designed to generate personalized workout) Tj T* (guidance from user-provided information. The system accepts details such as name, age, weight, fitness) Tj T* (goal and workout intensity, then uses a Gemini model to produce a structured plan. The project also) Tj T* (supports feedback-based plan refinement and an administrative view of stored user information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 644.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (The application uses FastAPI for backend routing and request handling, Jinja2 for dynamic HTML pages,) Tj T* (and SQLite/SQLAlchemy for storing application data. The reference project describes pages such as the) Tj T* (home page, personalized result page, feedback page and view-all-users page. ) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (filecite) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (turn2file1) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 620.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F2 12.5 Tf 16 TL (Main Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 599.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (\177 Generate a personalized 7-day workout plan.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 577.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (\177 Use AI to tailor the output to the user's fitness goal and selected intensity.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 555.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (\177 Provide simple nutrition or recovery guidance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 533.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (\177 Allow users to submit feedback for plan improvement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (\177 Store and display relevant user and plan information.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+413.636 647.0547 102.5958 13.3114 re
+f*
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 5269
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 208.7778 28.34646 Tm (FitBuddy \226 Group Project Documentation | Page 4) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 764.8661 cm
+q
+BT 1 0 0 1 0 4 Tm 20 TL /F2 16 Tf 0 0 0 rg (2. Brainstorming & Ideation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (The idea for FitBuddy was developed around the need for a simple fitness assistant that can generate) Tj T* (personalized guidance rather than giving the same plan to every user. The team identified AI-based) Tj T* (personalization, an easy web interface, feedback, and stored user information as useful features.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 681.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (3. Requirement Analysis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 613.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.8 Tm /F1 10.2 Tf 15 TL (The functional requirements include collecting user details, generating a workout plan, displaying the) Tj T* (generated result, accepting feedback, updating the plan where supported, and providing an) Tj T* (administrative/user-list view. The non-functional requirements include usability, reasonable response time,) Tj T* (maintainable code, and protection of sensitive configuration such as the Gemini API key.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 583.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (4. Project Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 530.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (The system follows a simple web architecture. The browser sends form data to the FastAPI backend. The) Tj T* (backend validates and processes the input, communicates with the Gemini service, stores relevant data) Tj T* (through the database layer, and renders a Jinja2 template containing the result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 500.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (5. Project Planning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 417.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 64.8 Tm /F1 10.2 Tf 15 TL -0.007832 Tw (The project can be organized into milestones: selecting the AI model and architecture, developing backend) Tj T* 0 Tw (functionality and routes, creating the frontend templates, connecting the database, testing the complete) Tj T* (flow, and preparing the application for local demonstration. The reference project similarly organizes work) Tj T* (into model/architecture, core development, route development, frontend development and deployment) Tj T* (milestones. ) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (filecite) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (turn2file4) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 387.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (6. Project Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 319.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.8 Tm /F1 10.2 Tf 15 TL (During development, the FastAPI application handles routes and user input. Jinja2 templates provide the) Tj T* (web pages. The reference structure identifies index.html for collecting input, result.html for displaying the) Tj T* (generated AI plan, and all_users.html for the administrative view. Environment variables are used for the) Tj T* (Gemini API key rather than placing the key directly in source code. ) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (filecite) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (turn2file2) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 289.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (7. Project Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 236.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (Testing is performed by checking the main user flow from entering details to receiving a generated result.) Tj T* (Form validation, successful AI response, result-page rendering, feedback submission, database storage,) Tj T* (and the all-users view should be checked before demonstration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 206.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (8. Project Documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 153.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (The documentation explains the purpose of FitBuddy, system requirements, architecture, development) Tj T* (process, testing approach, user interface pages, source-code highlights and final result. Screenshots from) Tj T* (the group's actual running application should be inserted in the screenshot section before submission.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 123.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (9. Project Demonstration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 70.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.8 Tm /F1 10.2 Tf 15 TL (For the demonstration, the team can show the home page, enter sample user details, generate a) Tj T* (personalized plan, display the result, demonstrate feedback if implemented, and show the) Tj T* (stored-user/admin page if available. The reference project describes the home page and personalized) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+111.4406 420.0547 102.5958 13.3114 re
+f*
+1 1 1 rg
+n
+360.3206 322.0547 102.5958 13.3114 re
+f*
+1 1 1 rg
+n
+453.4462 170.5898 87.55378 12.2 re
+f*
+1 1 1 rg
+n
+56 155.5898 485 12.2 re
+f*
+Q
+
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 23 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 610
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 208.7778 28.34646 Tm (FitBuddy \226 Group Project Documentation | Page 5) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 769.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F1 10.2 Tf 15 TL (workout result as important parts of the demonstration. ) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (filecite) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (turn2file1) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+306.4646 772.0547 102.5958 13.3114 re
+f*
+Q
+
+
+endstream
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 26 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1356
+>>
+stream
+Gatm:qet4I&H4hB`D+6(B1Q]/[UmL`NMR/`=hDu&$krjR'T>K69I3T1kVf$%s*[DN,0<ltQP3IFn%/gMGMh).%fY/'pF6;j[Xe(q#2=]_%sF$+@.=G-/l(h11<IlK/r6"aj0"r@E&p?A(^u/W$q[qkp(.j'CW?%RXlo(Zkr:;#.CkFGY2gU-Bm:e&gQ2_924"BY^mqPF\>QR@K>gX+qX<W,2r>^=Nmi+k(q;^aFBojG7<'[eX*$Fc%eP_Kp<3Ql2=W^J'5l"]&GSV1eV_1al*3(@OE*X]?,c,,^V-dESBUF4F2`O+6E2p7k#Ba'EHGLMg&p?3_=Z0f)j4VB$kFS^1rqZNh"$^=_5FQ8&Vj%B_r^"Xq@%8orKbG!$te_sW!^p'MupXbZ-Kb,iSokYMfbR3pI#^R,:R(;k?>&)^V78#2KP-ONCFLRnrT.hc#pfK<fu?^\@`#N#o:Q8&#b"/-CCN2.Vj<537iF8BWDp,ZK6([Pp+[q@MQD9Eams>N.\4"?FHrDFU!-h+'&E%j%29-P#iRj`!SWh_a]Asfi%'_Nq/*6SrO./i(#N8<<A%#802;M]2c\:O2Zgn*lpg+!QMOV1*>'QZF@l3b->GF1/?-&:2c0kMt?&1[/fLt5-%3X%G;"rX\=>O_Nlc?aRZ\F_Y+rM(]%p7c]#%dkf"&Xr@2b<C%+iXk_t@cleN.`!N`3eHgGVn%)M-:O!2M%__53QRUJpF>]AIuT/[Ga(U-8!J10M);E]t<+6?OQLeKO!^q.0BcYqEfLoFJ`)Xot2OWhO`XoD]uR.G0fZV!7imgjRsV-:DMC*kp(CBU%q!s0-q!;p_rVb'?KqU0mL)+KR11a%\J>,.up2u,#d_K[[b%htK/XD+L&lu#,VpEucoYqL&nJ(BBKQh43ga/N`YrFB^g[D.tF)eEH8&-")'jZ.PQ/'`ealsOC:&:;c]@bnk9`hKgSf4ISQLl*^rV*T-"_s,jI9%C.^9elMb$S\bin7CN474P2uHJ\'YL\-?<k.&InDB]%8'@o?&@8"T;mEk3NS%J[S6e6F97n;q@],/4F?bE#G"QOi4'ZISrACR)L8nOU;[V7JMDNZ6'gZeEqB"P'(^6RQXAnbaNhj^^mbB-UQP%_e*<[L,,(JVrZe$k'ta6hV1m.X)h_W0[d*S"C?d*)(qdeo,?"MRMH3le*LN,\R%DU>mK<1W&D4#\+n/dOPZ(O]Rf.c$1BI@&>oFrsK([)YC*%p<jYjla[!f8nZ$/I\P?)t[#\JgP*6qno=,pn*B$L1.aI+j"iKqB%nB]h)Cr4d]f[B@;Ol``P..]+RI2pX>DR!sT^%K].43:^e[!f"8_ZL,<?TG]B8hi8cQ#l<.K~>
+endstream
+endobj
+26 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 29 0 R
+/F2 8 0 R
+/F2-0 30 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 2740
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 206.5538 28.34646 Tm (FitBuddy \226 Group Project Documentation | Page 10) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 764.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL (13. Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 696.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.8 Tm /F1 10.2 Tf 15 TL (FitBuddy demonstrates how generative AI can be combined with a web application to provide personalized) Tj T* -0.087975 Tw (fitness planning. The application collects user information and presents a structured workout plan based on) Tj T* 0 Tw (the selected fitness goal and intensity. Its FastAPI backend, Jinja2 templates and database layer provide) Tj T* (the basic structure needed for a complete web solution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 629.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.8 Tm /F1 10.2 Tf 15 TL (A key part of the project is personalization: the plan is intended to respond to the user's provided) Tj T* (information rather than displaying one fixed plan. The project also provides a foundation for) Tj T* (feedback-based refinement and administrative monitoring of stored user data, as described in the) Tj T* (reference project. ) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (filecite) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (turn2file0) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL (turn2file3) Tj /F3 10.2 Tf 15 TL (n) Tj /F1 10.2 Tf 15 TL T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 562.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 49.8 Tm /F1 10.2 Tf 15 TL (Overall, the project gives the group practical experience in FastAPI, HTML/Jinja2 templates, database) Tj T* -0.08279 Tw (handling and integration with a generative AI service. Before final submission, the group should replace the) Tj T* 0 Tw -0.125861 Tw (screenshot placeholders with screenshots from its own working application and add all member names and) Tj T* 0 Tw (register numbers on the cover page.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+139.2254 632.0547 151.6272 13.3114 re
+f*
+1 1 1 rg
+n
+56.5 765.0898 24 17 re
+f*
+1 1 1 rg
+n
+297.4481 594.5898 243.5519 12.2 re
+f*
+1 1 1 rg
+n
+56 579.5898 485 12.2 re
+f*
+1 1 1 rg
+n
+56 564.5898 485 12.2 re
+f*
+1 1 1 rg
+n
+199 25.6898 197 10 re
+f*
+0 0 0 rg
+BT
+/F2-0 16 Tf
+19.2 TL
+ET
+BT
+1 0 0 1 57 768.8898 Tm
+(12\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 10.2 Tf
+12.24 TL
+ET
+BT
+1 0 0 1 298.4481 597.6898 Tm
+(Before final submission\054 the group should add all) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 10.2 Tf
+12.24 TL
+ET
+BT
+1 0 0 1 57 582.6898 Tm
+(member names and register numbers on the cover page\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 206.6 28.3898 Tm
+(FitBuddy \226 Group Project Documentation \174 Page 7) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+29 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 31
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000155 00000 n 
+0000000204 00000 n 
+0000000479 00000 n 
+0000003051 00000 n 
+0000003158 00000 n 
+0000003265 00000 n 
+0000003377 00000 n 
+0000003460 00000 n 
+0000003566 00000 n 
+0000003686 00000 n 
+0000003964 00000 n 
+0000006080 00000 n 
+0000006188 00000 n 
+0000006466 00000 n 
+0000008884 00000 n 
+0000008992 00000 n 
+0000009270 00000 n 
+0000014592 00000 n 
+0000014700 00000 n 
+0000014978 00000 n 
+0000015640 00000 n 
+0000015748 00000 n 
+0000015950 00000 n 
+0000017399 00000 n 
+0000017473 00000 n 
+0000017764 00000 n 
+0000020557 00000 n 
+0000020665 00000 n 
+trailer
+<<
+/Size 31
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+20778
+%%EOF
